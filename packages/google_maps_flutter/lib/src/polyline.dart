@@ -39,7 +39,7 @@ class Polyline {
     this.endCap,
     this.geodesic = false,
     this.jointType,
-    this.points = [],
+    this.points,
     this.pattern,
     this.startCap,
     this.visible = true,
